@@ -9,7 +9,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.Write("222222222222666666666wwwwwwwww");
+            Console.Write("222222222222666666666wwwwwwwwwwweeeee");
             Console.ReadLine();
 
 
